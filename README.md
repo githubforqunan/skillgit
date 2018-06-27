@@ -1,0 +1,2 @@
+# skillgit
+clone a git
